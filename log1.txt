@@ -1,0 +1,35 @@
+================================================
+initial ans == 88.953370
+
+Before being assigned by this algorithm: 
+	group == 1, assignment == 1
+	group == 2, assignment == 1
+	group == 3, assignment == -1
+	group == 4, assignment == 1
+	group == 5, assignment == 1
+	group == 6, assignment == -1
+	group == 7, assignment == -1
+	group == 8, assignment == -1
+	group == 9, assignment == -1
+	group == 10, assignment == -1
+================================================
+
+
+================================================
+
+After being assigned by this algorithm: 
+	group == 1, assignment == 1
+	group == 2, assignment == 1
+	group == 3, assignment == 1
+	group == 4, assignment == 1
+	group == 5, assignment == 1
+	group == 6, assignment == -1
+	group == 7, assignment == -1
+	group == 8, assignment == -1
+	group == 9, assignment == -1
+	group == 10, assignment == -1
+
+algorithm ans == 83.978790
+================================================
+runtime = 0.000261 sec
+memory = 12.768000 MB

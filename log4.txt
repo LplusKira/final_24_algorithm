@@ -1,0 +1,69 @@
+================================================
+initial ans == 95.123160
+
+Before being assigned by this algorithm: 
+	group == 1, assignment == 1
+	group == 2, assignment == 1
+	group == 3, assignment == -1
+	group == 4, assignment == 1
+	group == 5, assignment == 1
+	group == 6, assignment == -1
+	group == 7, assignment == -1
+	group == 8, assignment == -1
+	group == 9, assignment == -1
+	group == 10, assignment == -1
+	group == 11, assignment == -1
+	group == 12, assignment == -1
+	group == 13, assignment == -1
+	group == 14, assignment == 1
+	group == 15, assignment == -1
+	group == 16, assignment == 1
+	group == 17, assignment == -1
+	group == 18, assignment == 1
+	group == 19, assignment == -1
+	group == 20, assignment == 1
+	group == 21, assignment == -1
+	group == 22, assignment == -1
+	group == 23, assignment == 1
+	group == 24, assignment == 1
+	group == 25, assignment == -1
+	group == 26, assignment == -1
+	group == 27, assignment == -1
+================================================
+
+
+================================================
+
+After being assigned by this algorithm: 
+	group == 1, assignment == 1
+	group == 2, assignment == 1
+	group == 3, assignment == -1
+	group == 4, assignment == 1
+	group == 5, assignment == 1
+	group == 6, assignment == -1
+	group == 7, assignment == 1
+	group == 8, assignment == -1
+	group == 9, assignment == 1
+	group == 10, assignment == -1
+	group == 11, assignment == -1
+	group == 12, assignment == -1
+	group == 13, assignment == -1
+	group == 14, assignment == 1
+	group == 15, assignment == -1
+	group == 16, assignment == 1
+	group == 17, assignment == 1
+	group == 18, assignment == 1
+	group == 19, assignment == -1
+	group == 20, assignment == 1
+	group == 21, assignment == -1
+	group == 22, assignment == -1
+	group == 23, assignment == 1
+	group == 24, assignment == 1
+	group == 25, assignment == -1
+	group == 26, assignment == -1
+	group == 27, assignment == -1
+
+algorithm ans == 95.581190
+================================================
+runtime = 0.001016 sec
+memory = 12.768000 MB

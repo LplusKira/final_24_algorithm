@@ -1,0 +1,105 @@
+================================================
+initial ans == 85.582540
+
+Before being assigned by this algorithm: 
+	group == 1, assignment == 1
+	group == 2, assignment == 1
+	group == 3, assignment == -1
+	group == 4, assignment == 1
+	group == 5, assignment == 1
+	group == 6, assignment == -1
+	group == 7, assignment == -1
+	group == 8, assignment == -1
+	group == 9, assignment == -1
+	group == 10, assignment == -1
+	group == 11, assignment == -1
+	group == 12, assignment == -1
+	group == 13, assignment == -1
+	group == 14, assignment == 1
+	group == 15, assignment == -1
+	group == 16, assignment == 1
+	group == 17, assignment == -1
+	group == 18, assignment == 1
+	group == 19, assignment == -1
+	group == 20, assignment == 1
+	group == 21, assignment == -1
+	group == 22, assignment == -1
+	group == 23, assignment == 1
+	group == 24, assignment == 1
+	group == 25, assignment == -1
+	group == 26, assignment == -1
+	group == 27, assignment == -1
+	group == 28, assignment == 1
+	group == 29, assignment == 1
+	group == 30, assignment == 1
+	group == 31, assignment == 1
+	group == 32, assignment == 1
+	group == 33, assignment == 1
+	group == 34, assignment == 1
+	group == 35, assignment == -1
+	group == 36, assignment == -1
+	group == 37, assignment == 1
+	group == 38, assignment == -1
+	group == 39, assignment == 1
+	group == 40, assignment == 1
+	group == 41, assignment == -1
+	group == 42, assignment == 1
+	group == 43, assignment == 1
+	group == 44, assignment == 1
+	group == 45, assignment == -1
+================================================
+
+
+================================================
+
+After being assigned by this algorithm: 
+	group == 1, assignment == 1
+	group == 2, assignment == 1
+	group == 3, assignment == -1
+	group == 4, assignment == -1
+	group == 5, assignment == 1
+	group == 6, assignment == -1
+	group == 7, assignment == 1
+	group == 8, assignment == 1
+	group == 9, assignment == -1
+	group == 10, assignment == 1
+	group == 11, assignment == -1
+	group == 12, assignment == -1
+	group == 13, assignment == -1
+	group == 14, assignment == 1
+	group == 15, assignment == -1
+	group == 16, assignment == 1
+	group == 17, assignment == -1
+	group == 18, assignment == -1
+	group == 19, assignment == -1
+	group == 20, assignment == -1
+	group == 21, assignment == -1
+	group == 22, assignment == 1
+	group == 23, assignment == 1
+	group == 24, assignment == 1
+	group == 25, assignment == -1
+	group == 26, assignment == -1
+	group == 27, assignment == -1
+	group == 28, assignment == 1
+	group == 29, assignment == -1
+	group == 30, assignment == -1
+	group == 31, assignment == 1
+	group == 32, assignment == 1
+	group == 33, assignment == 1
+	group == 34, assignment == 1
+	group == 35, assignment == -1
+	group == 36, assignment == -1
+	group == 37, assignment == 1
+	group == 38, assignment == -1
+	group == 39, assignment == 1
+	group == 40, assignment == 1
+	group == 41, assignment == -1
+	group == 42, assignment == -1
+	group == 43, assignment == -1
+	group == 44, assignment == 1
+	group == 45, assignment == 1
+
+algorithm ans == 88.260880
+================================================
+runtime = 0.001956 sec
+memory = 12.768000 MB
