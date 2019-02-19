@@ -1,5 +1,5 @@
 // **************************************************************************
-// File       [ algorithm.cpp ]
+// File       [ GDalgorithm.cpp ]
 // Author     [ Po-Kai Chang, almost all ] [ 陳則彣 : 1019~ 1072 + 1276 ~ 1315] [Chien Yu : line 1319~ 1327 and line 39]
 // Synopsis   [ the part in implementing the greedy alorithm solving this problem, checking whether 2-colorable]
 // Date       [ 2015/05/24 modified ]
